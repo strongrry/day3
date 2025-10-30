@@ -1,2 +1,0 @@
-print("BYE")
-print("HI")
